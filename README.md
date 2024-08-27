@@ -1,8 +1,9 @@
 <div align="center">
   <a href="https://utkarshkashyap.io">
-    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tD5kEC2JYcKHH0zO.gif" alt="MasterHead">
+    <img src="https://i.imghippo.com/files/39nqw1724767696.png">
   </a>
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Utkarsh Kashyap</h1>
 <h3 align="center">Passionate Data Analyst</h3>
@@ -11,12 +12,6 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=utkarsh-us&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-us" />
-</p>
-
-<p align="left"> 
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a> 
 </p>
 
 - 🌱 I’m currently learning **Numpy, Pandas, Data Science, Machine Learning**
@@ -29,6 +24,9 @@
 <p align="left">
   <a href="https://linkedin.com/in/utkarshus" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshus" height="30" width="40" />
+  </a>
+  <a href="https://dev.io/utkarshus" target="_blank">
+    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="utkarshus" height="30" width="40" />
   </a>
 </p>
 
