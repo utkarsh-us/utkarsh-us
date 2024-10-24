@@ -1,12 +1,14 @@
 <div align="center">
-  <a href="https://utkarshkashyap.io">
+  <a href="https://holopin.io/@utkarshus">
     <img src="https://i.imghippo.com/files/39nqw1724767696.png">
   </a>
 </div>
 
 
 <h1 align="center">Hi 👋, I'm Utkarsh Kashyap</h1>
-<h3 align="center">A dedicated Data Analyst with a strong background in mathematics and computer applications. With expertise in tools like SQL, Python, Power BI, and Advanced Excel, I excel in transforming data into actionable insights. My passion for data analysis is reflected in my hands-on experience and continuous drive to leverage data for informed decision-making.</h3>
+[![Holopin Board](https://holopin.me/utkarshus)]
+(https://holopin.io/@utkarshus)
+<h3 align="center">A dedicated Data Analyst with a strong background in mathematics and computer applications. With expertise in tools like SQL, Python, Power BI, and Advanced Excel, I excel in transforming data into actionable insights. My passion for https://i.imghippo.com/files/39nqw1724767696.pngdata analysis is reflected in my hands-on experience and continuous drive to leverage data for informed decision-making.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
