@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Kashyap</h1>
 
-[![An image of @utkarshus's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utkarshus)]//(https://holopin.io/@utkarshus)
+[![An image of @utkarshus's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utkarshus)](https://holopin.io/@utkarshus)
 
 (https://holopin.io/@utkarshus)
 <h3 align="center">A dedicated Data Analyst with a strong background in mathematics and computer applications. With expertise in tools like SQL, Python, Power BI, and Advanced Excel, I excel in transforming data into actionable insights. My passion for analysis is reflected in my hands-on experience and continuous drive to leverage data for informed decision-making.</h3>
