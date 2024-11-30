@@ -24,7 +24,7 @@
   <a href="https://dev.io/utkarshus" target="_blank">
     <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="utkarshus" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/deep.matrix" target="_blank">
+  <a href="https://instagram.com/deep.matrixx" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="30" />
   </a>
 </p>
